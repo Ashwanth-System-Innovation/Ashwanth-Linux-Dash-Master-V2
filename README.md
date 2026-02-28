@@ -19,13 +19,7 @@
 </p>
 
 
-<p align="center">
-  <a href="https://gitter.im/afaqurk/linux-dash">
-    <img
-      src="https://badges.gitter.im/gitterHQ/gitter.png"
-      alt="linux-dash Gitter chat">
-  </a>
-</p>
+
 
 <br/>
 
