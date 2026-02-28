@@ -11,7 +11,7 @@
 
 <p align="center">
   <small>
-    <a href="[https://afaqurk.github.io/linux-dash](https://glittering-starburst-073546.netlify.app/#/system-status)">Demo</a> &nbsp;|&nbsp;
+    <a href="https://glittering-starburst-073546.netlify.app/#/system-status">Demo</a> &nbsp;|&nbsp;
     <a href="https://github.com/afaqurk/linux-dash/wiki">
       Docs
     </a>
